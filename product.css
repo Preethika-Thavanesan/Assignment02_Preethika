@@ -1,0 +1,98 @@
+/* navbar */
+.button{
+    margin-left: 5px;
+        border-radius:  115px;
+        background-color:azure;
+    }
+    .one{
+        padding-left:20px;
+        padding-right: 350px;
+    }
+    .nav-link{
+        color:rgb(225, 146, 49)
+    }
+    .two{
+        padding-left:400px ;
+        font-weight: 50;
+        font-size:20px;
+    }
+    #two{
+        color:rgba(235, 147, 47, 0.876);
+        font-size: 30px;
+    }
+    .button2{
+        border-radius:  5px;
+        background-color: rgb(226, 118, 41);
+    }
+/* section1 */
+.section1{
+          height: 60px;
+          background-color:rgb(238, 200, 154);
+         }
+.header{
+        color: rgb(212, 120, 34);
+        text-align: right;
+        padding: 360px;
+        padding-top: 15px;
+        word-spacing: 10px;
+        font-size: 20px;
+       }
+/* section2 */
+img{
+    align-items:center;
+    margin:100px;
+    margin-top: 100px;
+    margin-left: 150px;
+    width:700px;
+    height:600px;
+    padding-left: 50px;
+}
+.form{
+    border:2px;
+    border-color: black;
+background-color:beige;
+box-shadow: 5px 5px 5px;
+margin-top: 100px;
+font-size: large;
+height:250px ;
+color:rgba(205, 134, 11, 0.876);
+padding: 10px;
+margin-right: 150px;
+}
+.form h4{
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 24px;
+}
+.form ul{
+    font-size: large;
+    line-height:2;
+}
+
+.div4{
+    margin-top: 100px;
+    margin-right: 150px;
+    font-size: 15px;
+    color:rgba(166, 112, 24, 0.876);
+}
+.form:hover{
+    box-shadow:inset 5px 5px 5px  rgb(201, 134, 9),
+               inset 5px 5px 5px  rgb(162, 105, 12);
+}
+.para{
+    text-align: justify;
+}
+.section7{
+    background-color:azure;
+    height:400px;
+}
+.footer{
+background-color: rgb(246, 246, 238);
+    height:50px;    
+}
+.p1{
+    padding-left:250px;
+    padding-top:7px;
+}
+
+

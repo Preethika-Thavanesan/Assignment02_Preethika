@@ -1,0 +1,243 @@
+/* <nav bar> */
+.a {
+    background-color: beige;
+    padding-right: 150px;
+    padding-left: 150px;
+
+}
+
+.nav {
+    padding-right: 200px;
+}
+
+.two {
+    font-display: inherit;
+    font-size: 20px;
+    color: rgb(95, 22, 22);
+    padding-left: 150px;
+
+}
+
+.button {
+    border-radius: 15px;
+    background-color: rgb(247, 193, 112);
+}
+
+.img {
+    height: 500px;
+    width: 500px;
+}
+
+.button1 {
+    border-radius: 2px;
+    background-color: rgb(237, 204, 161);
+}
+
+.containerd {
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.row {
+    margin-left: 100px;
+}
+
+.figure {
+    height: 50%;
+    width: 50%;
+    pointer-events: visibleFill;
+
+}
+
+.b {
+    display: table;
+    height: 100%;
+}
+
+.c {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.icon1 {
+    height: 100px;
+    width: 80px;
+}
+
+.icon2 {
+    height: 100px;
+    width: 80px;
+}
+
+.h4 {
+    text-align: center;
+    color: rgb(233, 197, 144);
+}
+
+.h2 {
+    text-align: center;
+}
+
+.line {
+    width: 10%;
+    text-align: center;
+    color: brown;
+    margin: 0 auto;
+    border-width: 30px;
+
+}
+
+.port>li {
+    display: inline;
+    padding: 10px;
+}
+
+.port {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.grid-containertop {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+
+.grid-itemnormal {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid-container .portfolio {
+    padding-right: 150px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 150px;
+}
+
+.grid-item {
+    padding: 8px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.image {
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+.image:hover{
+             box-shadow: inset 5px 5px 5px;
+}
+
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.picture {
+    height: 400px;
+    width: 350px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.section6 {
+    background-color: aliceblue;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.section7 {
+    background-color: azure;
+}
+
+.footer {
+    background-color: rgb(246, 246, 238);
+    height: 100px;
+}
+
+/* <section 7> */
+.grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto
+}
+
+.grid-itemmedia {
+    position: absolute;
+}
+
+.copyrights {
+    height: 20px;
+    width: 20px;
+    margin-left: 70px;
+    padding: 40px;
+}
+
+.section7 {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+/* <section 8> */
+.footer section {
+    height: 20px;
+}
+
+/* .social-icons a:active,
+.social-icons a:focus,
+.social-icons a:hover {
+    color: black;
+} */
+
+/* .social-icons.size-sm a {
+    line-height: 34px;
+    height: 34px;
+    width: 34px;
+    font-size: 14px;
+} */
+/* .social-icons{
+              height:35px;
+              width: 35px;
+              padding-right: 0px;
+              
+} */
+.social.media{
+    height: 40px;
+    width:35px;
+    
+} 
+.social{
+    display: inline;
+    padding-right: 5px;
+}
+.container7{
+    display:inline-grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.grid-item2{
+    padding:70px;
+    padding-left: 50px;
+}
+.social-items{
+    padding-right:0px;
+}
